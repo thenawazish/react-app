@@ -20,6 +20,9 @@ const App = () => {
                    <Typography variant="h4" align="center" color="textPrimary" gutterBottom>
                        BUSINESS MEMBERSHIP
                    </Typography>
+                   <Typography variant="h5" align="center" color="textSecondary" paragraph>
+                       To build a successful business
+                   </Typography>
                 </Container>
             </div>
             
